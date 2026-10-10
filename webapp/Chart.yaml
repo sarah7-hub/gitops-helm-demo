@@ -1,0 +1,6 @@
+apiVersion: v2
+name: webapp
+description: Chart simple de servicio web para GitOps
+type: application
+version: 0.1.0
+appVersion: "1.25"
