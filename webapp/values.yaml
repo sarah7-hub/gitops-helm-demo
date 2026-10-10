@@ -1,4 +1,4 @@
-replicaCount: 2
+replicaCount: 4
 
 image:
   repository: nginx
@@ -10,4 +10,4 @@ service:
   port: 80
 
 config:
-  message: "Hola desde GitOps v1"
+  message: "Hola desde GitOps v2"
